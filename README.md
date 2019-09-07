@@ -16,7 +16,7 @@
  If i forget anything please contact with me.
 
 ## Features
-- IpData and Geolocation plugin supports.
+- IpData and Geolocation supports.
 - Fast operation with MongoDB.
 - The following information is accessed when a visitor enters the site:
   - Ip address
