@@ -1,0 +1,24 @@
+{
+  "name": "chappie/rix-visitors",
+  "description": "Siteye gelen ziyaretçileriin bilgilerini veritabanında ttutar ve bunlar.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "ChappieZ50",
+      "email": "ugurtosun50@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "config/app.php",
+      "config/definitions.php",
+      "config/database.php"
+    ]
+  },
+  "require": {
+    "mongodb/mongodb": "^1.4"
+  }
+}
