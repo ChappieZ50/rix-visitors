@@ -36,6 +36,8 @@ You can add new features to Rix Visitors and / or integrate them into your own s
 #### Requires knowledge of php software while integrating.
 #### I will make improvements on the project unless it is busy.
 
+You can take ipdata api key on this address https://ipdata.co/sign-up.html . You need add api key to Config/definitions.php.
+
 # TR
 
 ## Linux için Kurulum
@@ -70,6 +72,8 @@ Rix Visitors'a yeni özellikler ekleyebilir ve/veya kendi sitenize entegre edebi
 ### Not
 #### Entegre ederken php yazılım bilgisi gerektirir.
 #### Boş kaldıkça proje üzerinde geliştirmelere yapacağım.
+
+https://ipdata.co/sign-up.html adresinden üye olarak ipdata api anahtarı alabilirsiniz. Bu anahtarı Config/definitions.php ye yapıştırın.
 
 
 
