@@ -34,6 +34,7 @@ You can add new features to Rix Visitors and / or integrate them into your own s
 
 ### Note
 #### Requires knowledge of php software while integrating.
+#### I will make improvements on the project unless it is busy.
 
 # TR
 
@@ -68,6 +69,7 @@ Rix Visitors'a yeni özellikler ekleyebilir ve/veya kendi sitenize entegre edebi
 
 ### Not
 #### Entegre ederken php yazılım bilgisi gerektirir.
+#### Boş kaldıkça proje üzerinde geliştirmelere yapacağım.
 
 
 
